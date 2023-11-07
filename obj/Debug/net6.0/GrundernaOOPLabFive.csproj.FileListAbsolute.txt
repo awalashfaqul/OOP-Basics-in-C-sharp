@@ -1,0 +1,15 @@
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/bin/Debug/net6.0/GrundernaOOPLabFive
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/bin/Debug/net6.0/GrundernaOOPLabFive.deps.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/bin/Debug/net6.0/GrundernaOOPLabFive.runtimeconfig.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/bin/Debug/net6.0/GrundernaOOPLabFive.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/bin/Debug/net6.0/GrundernaOOPLabFive.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.csproj.AssemblyReference.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.AssemblyInfoInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.AssemblyInfo.cs
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.csproj.CoreCompileInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/refint/GrundernaOOPLabFive.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/GrundernaOOPLabFive.genruntimeconfig.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 05 - Grunderna OOP/GrundernaOOPLabFive/GrundernaOOPLabFive/obj/Debug/net6.0/ref/GrundernaOOPLabFive.dll
