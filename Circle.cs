@@ -4,11 +4,7 @@ namespace GrundernaOOPLabFive
 {
 	public class Circle
 	{
-		//int _radius; //not using this, instead using 'private'. besides 'pi'
-						//should be a double variable, even we use it from
-						//MATH.PI. So there an error will be generated if we use
-						//both int and double to get a result.
-
+		
 		private double radius; // declaring a property to store radius data
 		private double pi = 3.14; // declaring another property for 'pi' and
                                   // assigning value in it.
